@@ -1,0 +1,17 @@
+[
+  {
+    "complaint": "My transfer failed, money was debited",
+    "urgency": "high",
+    "escalate": true
+  },
+  {
+    "complaint": "App is slow today",
+    "urgency": "medium",
+    "escalate": false
+  },
+  {
+    "complaint": "I think my account was hacked",
+    "urgency": "critical",
+    "escalate": true
+  }
+]
